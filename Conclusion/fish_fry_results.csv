@@ -1,141 +1,141 @@
-Neighborhood,Fish_Frys
-Aspinwall,1
-Wilmerding,1
-Slippery Rock,2
-Crabtree,1
-Wexford,2
-Uniontown,1
-Tyrone,1
-Rochester,2
-Plum,4
-Sewickley,3
-Bethel Park,1
-Kittanning,3
-New Kensington,5
-Connellsville,1
-East Pittsburgh,2
-Belle Vernon,1
-Johnstown,4
-Clairton,1
-Bakerstown,1
-Newry,1
-Altoona,6
-Homestead,2
-Washington,6
-Imler,1
-West Newton,2
-Lucinda,1
-Charleroi,1
-Rennerdale,1
-Meadville,1
-West Mifflin,1
-Jefferson Hills,1
-Ambridge,1
-Allison Park,4
-Windber,1
-Canonsburg,3
-Greenville,1
-Cabot,1
-Gettysburg,1
-Delmont,1
-Hollidaysburg,4
-Richeyville,1
-West View,1
-Warriors Mark,1
-New Eagle,1
-Monessen,1
-Aliquippa,6
-Beaver,1
-Cheswick,1
-Irwin,1
-Verona,1
-West Sunbury,1
-Hiller,1
-Imperial,1
-Finleyville,1
-Beaver Falls,2
-Greensburg,3
-Harrison City,1
-Natrona Heights,2
-Oakdale,2
-Etna,1
-Bentleyville,2
-New Castle,2
-Jeannette,1
-Cranberry Township,2
-Derry,1
-Apollo,2
-North Huntingdon,4
-Coraopolis,2
-Sharpsburg,1
-Presto,1
-Glenshaw,2
-Carnegie,3
-Rankin,1
-North Irwin,1
-Butler,2
-Burgettstown,1
-Monongahela,1
-Ellwood City,1
-Buena Vista,1
-Mc Donald,1
-Oakmont,3
-Elizabeth,2
-Mount Pleasant,1
-Bridgeville,2
-Crafton,1
-Munhall,1
-McMurray,2
-Brownsville,1
-Cassville,1
-Stahlstown,1
-Donora,1
-Herminie,1
-Zelienople,2
-Kersey,1
-Jefferson,1
-Turtle Creek,1
-Grove City,1
-Glassport,1
-Monroeville,1
-Bellvue,1
-Tarentum,1
-Mckeesport,1
-Millvale,2
-Moon Township,1
-McKees Rocks,1
-East Vandergrift,1
-Summerhill,1
-Bairdford,1
-Monaca,1
-Duquesne,1
-Utica,1
-Upper Saint Clair,1
-Grapeville,1
-Latrobe,1
-White Oak,1
-Avonmore,2
-Sharon,1
-Baden,1
-Smock,1
-15237,2
-15216,3
-15219,2
-15222,5
-15218,1
-15236,1
-15238,1
-15203,5
-15206,3
-15212,4
-15234,1
-15221,2
-15227,2
-15207,2
-15205,1
-15215,1
-15224,1
-15220,2
-15201,1
-15231,1
-15226,1
+Neighborhood,Fish_Frys,Fish_Frys_Score
+Aspinwall,1,0.0
+Wilmerding,1,0.0
+Slippery Rock,2,0.2
+Crabtree,1,0.0
+Wexford,2,0.2
+Uniontown,1,0.0
+Tyrone,1,0.0
+Rochester,2,0.2
+Plum,4,0.6
+Sewickley,3,0.4
+Bethel Park,1,0.0
+Kittanning,3,0.4
+New Kensington,5,0.8
+Connellsville,1,0.0
+East Pittsburgh,2,0.2
+Belle Vernon,1,0.0
+Johnstown,4,0.6
+Clairton,1,0.0
+Bakerstown,1,0.0
+Newry,1,0.0
+Altoona,6,1.0
+Homestead,2,0.2
+Washington,6,1.0
+Imler,1,0.0
+West Newton,2,0.2
+Lucinda,1,0.0
+Charleroi,1,0.0
+Rennerdale,1,0.0
+Meadville,1,0.0
+West Mifflin,1,0.0
+Jefferson Hills,1,0.0
+Ambridge,1,0.0
+Allison Park,4,0.6
+Windber,1,0.0
+Canonsburg,3,0.4
+Greenville,1,0.0
+Cabot,1,0.0
+Gettysburg,1,0.0
+Delmont,1,0.0
+Hollidaysburg,4,0.6
+Richeyville,1,0.0
+West View,1,0.0
+Warriors Mark,1,0.0
+New Eagle,1,0.0
+Monessen,1,0.0
+Aliquippa,6,1.0
+Beaver,1,0.0
+Cheswick,1,0.0
+Irwin,1,0.0
+Verona,1,0.0
+West Sunbury,1,0.0
+Hiller,1,0.0
+Imperial,1,0.0
+Finleyville,1,0.0
+Beaver Falls,2,0.2
+Greensburg,3,0.4
+Harrison City,1,0.0
+Natrona Heights,2,0.2
+Oakdale,2,0.2
+Etna,1,0.0
+Bentleyville,2,0.2
+New Castle,2,0.2
+Jeannette,1,0.0
+Cranberry Township,2,0.2
+Derry,1,0.0
+Apollo,2,0.2
+North Huntingdon,4,0.6
+Coraopolis,2,0.2
+Sharpsburg,1,0.0
+Presto,1,0.0
+Glenshaw,2,0.2
+Carnegie,3,0.4
+Rankin,1,0.0
+North Irwin,1,0.0
+Butler,2,0.2
+Burgettstown,1,0.0
+Monongahela,1,0.0
+Ellwood City,1,0.0
+Buena Vista,1,0.0
+Mc Donald,1,0.0
+Oakmont,3,0.4
+Elizabeth,2,0.2
+Mount Pleasant,1,0.0
+Bridgeville,2,0.2
+Crafton,1,0.0
+Munhall,1,0.0
+McMurray,2,0.2
+Brownsville,1,0.0
+Cassville,1,0.0
+Stahlstown,1,0.0
+Donora,1,0.0
+Herminie,1,0.0
+Zelienople,2,0.2
+Kersey,1,0.0
+Jefferson,1,0.0
+Turtle Creek,1,0.0
+Grove City,1,0.0
+Glassport,1,0.0
+Monroeville,1,0.0
+Bellvue,1,0.0
+Tarentum,1,0.0
+Mckeesport,1,0.0
+Millvale,2,0.2
+Moon Township,1,0.0
+McKees Rocks,1,0.0
+East Vandergrift,1,0.0
+Summerhill,1,0.0
+Bairdford,1,0.0
+Monaca,1,0.0
+Duquesne,1,0.0
+Utica,1,0.0
+Upper Saint Clair,1,0.0
+Grapeville,1,0.0
+Latrobe,1,0.0
+White Oak,1,0.0
+Avonmore,2,0.2
+Sharon,1,0.0
+Baden,1,0.0
+Smock,1,0.0
+15237,2,0.2
+15216,3,0.4
+15219,2,0.2
+15222,5,0.8
+15218,1,0.0
+15236,1,0.0
+15238,1,0.0
+15203,5,0.8
+15206,3,0.4
+15212,4,0.6
+15234,1,0.0
+15221,2,0.2
+15227,2,0.2
+15207,2,0.2
+15205,1,0.0
+15215,1,0.0
+15224,1,0.0
+15220,2,0.2
+15201,1,0.0
+15231,1,0.0
+15226,1,0.0
