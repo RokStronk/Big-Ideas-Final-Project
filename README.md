@@ -12,7 +12,7 @@ Rohan Annapragada RSA57@pitt.edu
 
 Data sets:
 Fish Frys (https://data.wprdc.org/dataset/pittsburgh-fish-fry-map) - A record of all documented fish fry locations and other information centered around fish frys.
-Dylan's dataset ()
+Dylan's dataset (https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment) - School enrollment data of school in and around pittsburgh & (https://www.pennsylvania-demographics.com/zip_codes_by_population) - Zip codes and their towns.
 Cost of living (https://data.wprdc.org/dataset/pgh) - SNAP census data on several factors related to the cost of living broken down by neighborhood 
 
 Our project aims to find the best neighborhood to live in by comparing (dylan), various factors related to the cost of living(median home price, poverty rates, rent) and how many fish frys are located in a neighborhood. 
